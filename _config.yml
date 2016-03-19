@@ -1,0 +1,28 @@
+name: IT_GURU
+favicon: null
+layout_spectrum: 0.5787058700807393
+typography_spectrum: 0.3101886243093759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7165851972531527
+  lightness: 0.08136547752656043
+  saturation: 0.1154825990088284
+  rhythmicContrast: 0.10002794582396746
+purpose: []
